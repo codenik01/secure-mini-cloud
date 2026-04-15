@@ -139,5 +139,5 @@ For engineering recruiters & teams, this project demonstrates high proficiency i
 
 <br>
 <p align="center">
-  <i>Engineered with security and scale in mind.</i>
+  <i>Engineered with security and scale in mind...!</i>
 </p>
